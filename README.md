@@ -1,3 +1,6 @@
+Essa foi uma aplicação desenvolvida com Java, spring boot. nessa aplicação tive uma experiencia sensacional. Onde me dediquei ao maximo para construir ess API.
+
+
 Modelo de domínio DSList
 ![dslist-model](https://github.com/user-attachments/assets/a8c6b8bf-4239-4f2d-9f10-bcce45917a5d)
 
